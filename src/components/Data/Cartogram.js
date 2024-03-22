@@ -137,7 +137,7 @@ export default function Cartogram() {
             <article className="w-1/3">
               <h3>16th Century</h3>
               <p>
-                By the 16th century, the influx of Kwagŏ examinees from Seoul
+                By the 16th century, the influx of Gwageo examinees from Seoul
                 began to rise significantly
               </p>
             </article>
@@ -151,7 +151,7 @@ export default function Cartogram() {
               <h3>17th Century</h3>
               <p>
                 Seoul, Chungcheong, and Yeongnam continue to be major
-                contributors to the number of Kwagŏ examinees.
+                contributors to the number of Gwageo examinees.
               </p>
             </article>
             <div className="maps">
