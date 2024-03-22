@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hku/static/css/main.cc952c99.css",
-    "main.js": "/hku/static/js/main.d56af3f2.js",
+    "main.css": "/hku/static/css/main.fb7d1a8a.css",
+    "main.js": "/hku/static/js/main.c4c4f9d6.js",
     "static/media/ajd2.png": "/hku/static/media/ajd2.fbab8588db57b931bb50.png",
     "static/media/header-color.svg": "/hku/static/media/header-color.e12814ca9bb9043fbd4952510051e960.svg",
     "static/media/temp02.png": "/hku/static/media/temp02.2322d5575c89d14d2f53.png",
@@ -32,11 +32,11 @@
     "static/media/networkBar.svg": "/hku/static/media/networkBar.e425e39606fa0ea2cae272d81d075626.svg",
     "static/media/tcs.svg": "/hku/static/media/tcs.fc8f9871a6dd775499dd8678b298f6e0.svg",
     "index.html": "/hku/index.html",
-    "main.cc952c99.css.map": "/hku/static/css/main.cc952c99.css.map",
-    "main.d56af3f2.js.map": "/hku/static/js/main.d56af3f2.js.map"
+    "main.fb7d1a8a.css.map": "/hku/static/css/main.fb7d1a8a.css.map",
+    "main.c4c4f9d6.js.map": "/hku/static/js/main.c4c4f9d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc952c99.css",
-    "static/js/main.d56af3f2.js"
+    "static/css/main.fb7d1a8a.css",
+    "static/js/main.c4c4f9d6.js"
   ]
 }
